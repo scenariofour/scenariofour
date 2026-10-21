@@ -2,8 +2,8 @@
 
 I build small, honest products with AI, and I keep notes on what each one teaches me.
 
-- **[Homepage](https://iris-li-homepage.vercel.app/)**: my work, notes and updates.
-- **[RIRRI'S](https://rirris-world.vercel.app/)**: the same work, stocked in a tiny 3D convenience store on a rainy evening. Pick something up to read its case study.
+- **[Homepage](https://irisli.dev/)**: my work, notes and updates.
+- **[RIRRI'S](https://world.irisli.dev/)**: the same work, stocked in a tiny 3D convenience store on a rainy evening. Pick something up to read its case study.
 
 **Public projects here**
 
@@ -15,4 +15,4 @@ I build small, honest products with AI, and I keep notes on what each one teache
 
 Most of my work lives in private repositories; the case studies on the Homepage and in RIRRI'S cover it.
 
-[Say hi →](https://iris-li-homepage.vercel.app/#contact)
+[Say hi →](https://irisli.dev/#contact)
